@@ -5,12 +5,9 @@ We know making iptv server stable server with worldwide content not easy and aff
 Becouse to make stable iptv admin panel need high investment or good knowagle about linux system.
 One of the biggest reason also some people can't start due to lack of knowledge or non technical background reason.
 
-But we are going to resolve these all problems and providing you Most Advanced IPTV CMS Admin Panel which is lunch first time by us.
+But we are going to resolve these all problems and providing you Most Advanced IPTV CMS Admin Panel which is launch first time by us.
 
-Below is most popular admin and reseller panel feature.
-
-
-
+#Requirements.
 Minimum 1GB Ram VPS (OS: Ubuntu 18.04 64/bit)
 
   * @Xtream-Masters IPTV CMS Panel v2.2 release
