@@ -7,7 +7,7 @@ One of the biggest reason also some people can't start due to lack of knowledge 
 
 But we are going to resolve these all problems and providing you Most Advanced IPTV CMS Admin Panel which is launch first time by us.
 
-#Requirements.
+#Requirements:
 Minimum 1GB Ram VPS (OS: Ubuntu 18.04 64/bit)
 
   * @Xtream-Masters IPTV CMS Panel v2.2 release
