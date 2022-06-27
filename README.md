@@ -7,6 +7,10 @@ One of the biggest reason also some people can't start due to lack of knowledge 
 
 But we are going to resolve these all problems and providing you Most Advanced IPTV CMS Admin Panel which is launch first time by us.
 
+
+![077ed8523dc81f8905b0791a33ae8cbe9675](https://user-images.githubusercontent.com/60063959/175958267-abc91efb-fa2c-4116-ae39-22dd42941898.png)
+
+
 #Requirements:
 Minimum 1GB Ram VPS (OS: Ubuntu 18.04 64/bit)
 
@@ -14,12 +18,7 @@ Minimum 1GB Ram VPS (OS: Ubuntu 18.04 64/bit)
   * @m3u, mac, activecode, 3in1 iptv api panel
   * @developer: Muhammad Ashan (Xtream-Masters.com)
 
-
-![077ed8523dc81f8905b0791a33ae8cbe9675](https://user-images.githubusercontent.com/60063959/175958267-abc91efb-fa2c-4116-ae39-22dd42941898.png)
-
-
 `curl -o installer.sh -L https://xtream-masters.com/files/iptv/installer.sh && bash installer.sh`
-
 
  * @Video Tutorial
    https://www.youtube.com/watch?v=anX8EkR1z4g
