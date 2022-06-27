@@ -18,7 +18,7 @@ Minimum 1GB Ram VPS (OS: Ubuntu 18.04 64/bit)
   * @m3u, mac, activecode, 3in1 iptv api panel
   * @developer: Muhammad Ashan (Xtream-Masters.com)
 
- * @Video Tutorial
+ * @Video Tutorial:
    https://www.youtube.com/watch?v=anX8EkR1z4g
 
 `curl -o installer.sh -L https://xtream-masters.com/files/iptv/installer.sh && bash installer.sh`
