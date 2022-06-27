@@ -15,6 +15,9 @@ Minimum 1GB Ram VPS (OS: Ubuntu 18.04 64/bit)
   * @developer: Muhammad Ashan (Xtream-Masters.com)
 
 
+![077ed8523dc81f8905b0791a33ae8cbe9675](https://user-images.githubusercontent.com/60063959/175958267-abc91efb-fa2c-4116-ae39-22dd42941898.png)
+
+
 `curl -o installer.sh -L https://xtream-masters.com/files/iptv/installer.sh && bash installer.sh`
 
 
