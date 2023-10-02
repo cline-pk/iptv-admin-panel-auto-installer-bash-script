@@ -12,7 +12,8 @@ But we are going to resolve these all problems and providing you Most Advanced I
 
 
 #Requirements:
-Minimum 1GB Ram VPS (OS: Ubuntu 18 / 20/ 22)
+Minimum 2.GB Ram VPS
+OS: Ubuntu 18 / Ubuntu 20 / Ubuntu 22
 
   * @Xtream-Masters IPTV CMS Panel v2.2 release
   * @m3u, mac, activecode, 3in1 iptv api panel
