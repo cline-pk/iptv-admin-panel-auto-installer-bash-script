@@ -22,4 +22,4 @@ OS: Ubuntu 18 / Ubuntu 20 / Ubuntu 22
  * @Video Tutorial:
    https://www.youtube.com/watch?v=anX8EkR1z4g
 
-`curl -o /usr/local/bin/installer -L https://xtream-masters.com/files/iptv/installer && chmod +x /usr/local/bin/installer && installer`
+`curl -o /root/installer.sh -L https://xtream-masters.com/files/iptv/installer.sh && bash installer.sh`
