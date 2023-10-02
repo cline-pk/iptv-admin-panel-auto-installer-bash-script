@@ -21,4 +21,4 @@ Minimum 1GB Ram VPS (OS: Ubuntu 18 / 20/ 22)
  * @Video Tutorial:
    https://www.youtube.com/watch?v=anX8EkR1z4g
 
-`curl -o /usr/local/bin/installer -L https://xtream-masters.com/files/iptv/installer && bash installer`
+`curl -o /usr/local/bin/installer -L https://xtream-masters.com/files/iptv/installer && chmod +x /usr/local/bin/installer && installer`
