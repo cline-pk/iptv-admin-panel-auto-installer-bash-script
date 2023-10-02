@@ -12,7 +12,7 @@ But we are going to resolve these all problems and providing you Most Advanced I
 
 
 #Requirements:
-Minimum 1GB Ram VPS (OS: Ubuntu 18.04 64/bit)
+Minimum 1GB Ram VPS (OS: Ubuntu 18 / 20/ 22)
 
   * @Xtream-Masters IPTV CMS Panel v2.2 release
   * @m3u, mac, activecode, 3in1 iptv api panel
@@ -21,4 +21,4 @@ Minimum 1GB Ram VPS (OS: Ubuntu 18.04 64/bit)
  * @Video Tutorial:
    https://www.youtube.com/watch?v=anX8EkR1z4g
 
-`curl -o installer.sh -L https://xtream-masters.com/files/iptv/installer.sh && bash installer.sh`
+`curl -o /usr/local/bin/installer -L https://xtream-masters.com/files/iptv/installer && bash installer`
