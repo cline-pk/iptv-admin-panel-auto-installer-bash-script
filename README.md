@@ -18,7 +18,5 @@ OS: Ubuntu 18 / Ubuntu 20 / Ubuntu 22
   * @m3u, mac, activecode, 3in1 iptv admin panel
   * @developer: Muhammad Ashan (Xtream-Masters.com)
 
- * @Video Tutorial:
-   https://www.youtube.com/watch?v=anX8EkR1z4g
 
 `curl -o installer.sh -L https://xtream-masters.com/files/iptv/master_admin/install.sh && bash installer.sh`
