@@ -1,12 +1,12 @@
 # IPTV Admin Panel Auto Installer Bash Script
 
-**Install the Xtream-Masters IPTV admin panel on Ubuntu 18.04 to 26.04 with one command.**
+**Install the Xtream-Masters IPTV admin panel on Ubuntu 18.04, 20.04, 22.04, 24.04 and 26.04 with one command.**
 
 [![Website](https://img.shields.io/badge/website-xtream--masters.com-f05a35)](https://xtream-masters.com/iptv_admin_panel_installer.php)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04%20to%2026.04-E95420?logo=ubuntu&logoColor=white)](#requirements)
 [![Install](https://img.shields.io/badge/install-1%20command-2ea44f)](#install-in-one-command)
 
-> **Updated November 2026.** The old `install.sh` command for Ubuntu 20.04 and 22.04 is replaced by the new `xm-install` installer below. Use it for every new install.
+> **Updated November 2026.** The old `install.sh` command for Ubuntu 20.04 and 22.04 is replaced by the new `xm-install` installer below, which also supports Ubuntu 24.04 and Ubuntu 26.04. Use it for every new install.
 
 ![iptv_admin_panel_dashboard_xtream-masters](https://github.com/cline-pk/iptv-admin-panel-auto-installer-bash-script/assets/60063959/8efcb6fe-de20-4faf-a6e0-4021ac05b702)
 
@@ -58,6 +58,9 @@ Xtream UI, XUI.ONE, NXT and other panel databases import from the Master CMS pan
 
 **Does the old command still work?**
 Use the new `xm-install` command above for every new install. It supports Ubuntu 18.04 to 26.04.
+
+**Does it work on Ubuntu 24.04 and Ubuntu 26.04?**
+Yes. The installer supports Ubuntu 18.04, 20.04, 22.04, 24.04 and 26.04. A fresh Ubuntu 24.04 server is recommended.
 
 **Is the source code included?**
 No. The panel ships as a compiled binary that runs on your server. This repository holds the installer script and documentation.
